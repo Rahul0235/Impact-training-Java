@@ -31,5 +31,6 @@ public class myStack {
             sv.push(si.pop());
         }
         System.out.println(sv);
+        System.out.println("\\n");
     }
 }
